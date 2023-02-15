@@ -38,9 +38,8 @@ int main(){
 
     vector<int> prices_month3 = {7,6,4,3,1};
     /* Answer : 0 */
-    cout << maxProfit(prices_month1) << endl; // expected output: 6
-    cout << maxProfit(prices_month2) << endl; // expected output: 4
-    cout << maxProfit(prices_month3) << endl; // expected output: 0
-
+    cout << maxProfit(prices_month1) << endl; 
+    cout << maxProfit(prices_month2) << endl; 
+    cout << maxProfit(prices_month3) << endl; 
     return 0;
 }
