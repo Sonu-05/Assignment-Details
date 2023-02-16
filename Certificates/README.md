@@ -3,4 +3,4 @@ This folder has the certificates.
 2. Teachnook - Course Completion Certificate
 3. Teachnook - Internship Cpmpletion Certificate
 4. Smitham Certificate- Participation in beautification of school
-5. Participation in Workshop on Android Studio
+5. Participation in Workshop on Mobile App Development.
