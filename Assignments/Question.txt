@@ -1,0 +1,15 @@
+Wavelab is starting a Silicon plant, where they will produce advanced processors for Ultra Computers. The only obstacle to this is that we are on a budget and want to optimize all our resources. Hence we decided to ditch our supplier and buy silicon semiconductors directly from the silicon exchange.
+
+Silicon exchange is a place where there is bidding for silicon every day. It's just like a stock exchange. We realized that much of our silicon is left unused after the process because of our operation optimization techniques. Hence we decided to sell this silicon on the same exchange.
+
+Your job as Wavelabs Engineer is to make a profit for the organization by optimizing the buying and selling process over Silicon exchange.
+
+
+
+You are given an array of prices where price [i] is the price of silicon on an ith day.
+Find the maximum profit you can achieve. You may complete at most two transactions.
+You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before buying again).
+
+A template is attached with the question with 3 sample test cases and the expected answer.
+
+Bonus point: If you implement the solution using an object-oriented paradigm (creating header files and source files and creating a Makefile for compilation), you'll get bonus points.
